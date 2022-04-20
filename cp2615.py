@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: BSD-2-Clause
 from enum import Enum
 
 def encode_static(cfg, dft):

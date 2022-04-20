@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: BSD-2-Clause
 SRC = cp2615-util.c
 BIN = cp2615-util
 
